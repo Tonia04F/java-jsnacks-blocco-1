@@ -27,6 +27,7 @@ public class JSnack1 {
 		
 		
 		
+		sc.close();
 
 	}
 
