@@ -6,6 +6,7 @@ public class JSnack1Bonus {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
+		
 		int counter = 0;
 		int somma = 0;
 		int numero;
@@ -16,6 +17,7 @@ public class JSnack1Bonus {
 			numero = sc.nextInt();
 			continua = false;
 			somma = somma + numero;
+			
 			counter ++;
 			
 		}
